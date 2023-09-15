@@ -2817,7 +2817,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #516261;
+			background-color: rgba(81, 98, 97, 0.7); /* 70% opaque teal */
 			color: #c8ece9;
 		}
 
